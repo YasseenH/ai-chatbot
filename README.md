@@ -2,6 +2,8 @@
 
 This project is an AI Chat Bot application developed using Next.js and JavaScript. The bot is designed to engage in meaningful conversations specifically tailored to Computer Science students, providing relevant responses to assist them on their journey through college. It is deployed on Vercel.
 
+https://github.com/user-attachments/assets/ff524b38-121f-4d4e-b04c-4ff5a639b1e5
+
 ## Table of Contents
 - [Features](#features)
 - [Future Enhancements](#future-enhancements)
